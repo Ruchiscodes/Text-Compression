@@ -1,8 +1,4 @@
-/* Title: Huffman Coding for files
-   URL: htts://github.com/TheniL/huffman
-   Date_start: 25/11/2014
-   OC 1: 01/12/2014
-   Author: niLesh	*/
+/* Title: Huffman Coding for files*/
 /*
 TODO: handle Codewords longer than MAX
 TODO: Use free() to deallocate memory
